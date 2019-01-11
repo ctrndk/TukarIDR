@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CurrencyExchange</string>
+    <string name="btnReset">Reset Country</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnDelete">⌫</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btnPoint">.</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn0">0</string>
+    <string name="txtTitle"><![CDATA[Currency Conventor & Travel Advice]]></string>
+    <string name="btnNext">Next</string>
+    <string name="CAD_Amt">CAD Amount</string>
+    <string name="txtTitleCAD">CAD $</string>
+    <string name="cek_nilai_tukar_rupiah">Cek Nilai Tukar Rupiah</string>
+    <string name="dolanandev">DolananDev</string>
+    <string name="_071_064_077">071|064|077</string>
+    <string name="nim">NIM</string>
+    <string name="catra_andika_ramadhani">Catra Andika Ramadhani</string>
+    <string name="_2015150071">2015150071</string>
+    <string name="disca_ferly_adistya">Disca Ferly Adistya</string>
+    <string name="_2015150077">2015150077</string>
+    <string name="hani_faturafiqoh">Hani Faturafiqoh</string>
+    <string name="_2015150064">2015150064</string>
+    <string name="pilih_nilai_tukar">Pilih Nilai Tukar</string>
+    <string name="hapus_nilai_tukar">Hapus Nilai Tukar</string>
+</resources>
