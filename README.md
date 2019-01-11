@@ -15,7 +15,7 @@ TukarIDR merupakan aplikasi penghitung KURS Rupiah secara Online.
 
 
 # Download Aplikasi
-- Link : [TukarIDR.apk](https://github.com/ctrndk/TukarIDR/blob/master/tukarIDR.apk)
+- Link : [TukarIDR.apk](https://github.com/ctrndk/TukarIDR/raw/master/tukarIDR.apk)
 
 # Crew
 - [x] Catra Andika Ramadhani (2015150071)
